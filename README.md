@@ -9,8 +9,8 @@ Tic-Tac-Toe is a two-player board game where the objective is to form a line of 
 ## 2. Board Representation
 The board is represented by a 3x3 matrix, where each cell can contain one of the following values:
 
-- 'X': Indicates the user's move.
-- 'O': Indicates the AI's move.
+- 'X': Indicates the AI's move.
+- 'O': Indicates the user's move.
 - ' ': Indicates an empty cell.
 
 ## 3. Main Functions
